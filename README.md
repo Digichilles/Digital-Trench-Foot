@@ -4,6 +4,6 @@ Official currency of the crypto degenerates who forgot to touch grass since 2021
   "name": "Digital Trench Foot",
   "symbol": "DTF",
   "decimals": 9,
-  "logoURI": "https://your-image-host.com/dtf-logo.png",
+  "officialtwitterURI": "[https://x.com/dtf_coin]",
   "tags": ["utility-token", "meme"]
 }
